@@ -2,5 +2,8 @@ An API that returns JSON metadata for published articles on a range of news sour
 
 [![Build Status](https://travis-ci.org/LWanjiru/checkpoint1-newsapi.svg?branch=master)](https://travis-ci.org/LWanjiru/checkpoint1-newsapi)
 
-I am adding this to test the integration of HoundCI to Github
-I added this line so I can have a new branch in order to make a pull request.
+[![Code Climate](https://codeclimate.com/github/LWanjiru/checkpoint1-newsapi/badges/gpa.svg)](https://codeclimate.com/github/LWanjiru/checkpoint1-newsapi)
+
+[![Test Coverage](https://codeclimate.com/github/LWanjiru/checkpoint1-newsapi/badges/coverage.svg)](https://codeclimate.com/github/LWanjiru/checkpoint1-newsapi/coverage)
+
+[![Issue Count](https://codeclimate.com/github/LWanjiru/checkpoint1-newsapi/badges/issue_count.svg)](https://codeclimate.com/github/LWanjiru/checkpoint1-newsapi)
